@@ -10,7 +10,7 @@ header h1 {
 header p {
   color: #aaa;
   text-transform: uppercase;
-  font-family: Merriweather, sans-serif;
+  font-family: 'Merriweather Regular', sans-serif;
   font-weight: 600;
 }
 

@@ -1,7 +1,7 @@
 <style>
 :global(body) {
   background-color: black;
-  font-family: 'Red Hat Display';
+  font-family: 'Red-Hat Regular';
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -49,8 +49,9 @@ img {
 }
 
 .about-us > h2 {
+  font-family: 'Red-Hat Bold';
   color: #fff;
-  font-weight: 700;
+  font-weight: bold;
   margin: 5px;
 }
 

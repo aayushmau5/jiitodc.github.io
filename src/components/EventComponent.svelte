@@ -1,6 +1,6 @@
 <style>
 .event-container {
-  font-family: 'Red Hat Display', sans-serif;
+  font-family: 'Red-Hat Regular', sans-serif;
   display: flex;
   margin-top: 3rem;
   padding-bottom: 3rem;
@@ -24,6 +24,7 @@
 }
 
 .title {
+  font-family: 'Red-Hat Bold';
   font-size: 2rem;
   font-weight: bold;
 }
