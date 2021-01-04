@@ -3846,10 +3846,10 @@ svelte-awesome@^2.3.0:
   dependencies:
     svelte "^3.15.0"
 
-svelte@^3.15.0, svelte@^3.30.0:
-  version "3.30.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.30.0.tgz#cbde341e96bf34f4ac73c8f14f8a014e03bfb7d6"
-  integrity sha512-z+hdIACb9TROGvJBQWcItMtlr4s0DBUgJss6qWrtFkOoIInkG+iAMo/FJZQFyDBQZc+dul2+TzYSi/tpTT5/Ag==
+svelte@^3.15.0, svelte@^3.31.1:
+  version "3.31.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.31.1.tgz#1a1e2a2fe4eeb72be5c2542735e035c49c45be87"
+  integrity sha512-Q8xVz5U/IFFNjgvVSjdzKJPAX0MFytFwiJo1HAPfGwM7LkHA+BN2q2kL8vKcJwjku7/509MapLov8C9SjogNRg==
 
 table@^5.2.3:
   version "5.4.6"
